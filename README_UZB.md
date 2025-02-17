@@ -109,6 +109,5 @@ Uch o'lchovli fazoda karkas modelini vizualizatsiya qilish dasturini ishlab chiq
 - Sozlamalar dasturni qayta ishga tushirish oralig'ida saqlanishi kerak.
 
 ## Part 3. Qo'shimcha. Yozib olish
-
 - Dastur olingan (“renderlangan”) tasvirlarni bmp va jpeg formatlarida faylga saqlash imkonini berishi kerak.
 - Dastur kichik “skrinkastlarni” – yuklangan obyektning joriy foydalanuvchi affin transformatsiyalarni gif animatsiyasiga (640x480,10fps, 5s) yozib olish uchun maxsus tugmadan foydalanishga ruxsat berishi kerak.

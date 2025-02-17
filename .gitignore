@@ -50,6 +50,7 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+<<<<<<< HEAD
 
 #.idea and debug Clion
 .idea
@@ -66,3 +67,5 @@ src/test_executable
 
 #app
 src/3dviewer_app
+=======
+>>>>>>> 408d595c36815d7d8b0f34e9087559b1f10fa42c
